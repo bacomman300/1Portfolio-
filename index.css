@@ -1,0 +1,77 @@
+/* class */
+/* section one nav bar */
+.section1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.button1{
+  padding-left: 10px;
+  padding-right: 10px ;
+  padding-top: 10px;
+  padding-bottom:10px ;
+}
+
+
+/* section 2 body one */
+ .bodyoneimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding-top: 60px;
+  padding-bottom:60px;
+ }
+
+ .bodyoneh1{
+  padding-top:10px;
+  padding-bottom:20px;
+ }
+
+
+
+ .section2{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left:20px ;
+  padding-right:20px;
+ }
+
+ /* section3 */
+ .section3img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+ }
+
+ /* section4 */
+ .section4{
+  padding-top: 130px;
+  padding-bottom: 20px;
+  background-color: lightblue;
+ }
+ 
+.section4h1{
+  color: white;
+}
+
+.section4h5{
+  color: white;
+  padding-left:150px ;
+  padding-right: 150px;
+  padding-bottom: 30px;
+}
+
+/* section5 */
+.section5div{
+  display: grid;
+}
+
+
+/* ids  */
+ section{
+  text-align: center;
+ }
+
+

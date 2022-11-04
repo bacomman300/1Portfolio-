@@ -68,10 +68,40 @@
   display: grid;
 }
 
+.section5{
+  padding-top: 80px;
+ }
 
+ .p1{
+  padding-top: 50px;
+ }
+.p2{
+  padding-bottom: 30px;
+}
+.p3{
+  padding-bottom: 30px;
+}
+.p4{
+  margin-bottom: 7px;
+}
+.p5{
+  margin-bottom: 3px;
+}
+.p6{
+  margin-bottom: 0px;
+}
+.p7{
+  padding-bottom: 50px; 
+}
+
+.section6h1{padding-top:170px;
+
+}
 /* ids  */
  section{
   text-align: center;
  }
+
+ 
 
 

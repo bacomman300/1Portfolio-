@@ -80,45 +80,45 @@
         <div class="  col-md-4  col-lg-4">
           <p class="p1"> icon</p>
           <p> Designer</p>
-          <p  class="p2"> I value simple content structure, clean design patterns, and thoughtful interactions.</p>
+          <p class="p2"> I value simple content structure, clean design patterns, and thoughtful interactions.</p>
           <p> Things I enjoy designing:</p>
-          <p  class="p3"> UX, UI, Web, Apps, Logos</p>
-          <p  class="p4"> Design Tools:</p>
-          <p  class="p5"     > Affinity Designer</p>
-          <p   class="p6"  > hello world</p>
-          <p   class="p6"  > hello world</p>
-          <p   class="p6"    > hello world</p>
-          <p   class="p6"    >  hello world</p>
-          <p   class="p6"    > hello world</p>
-          <p   class="p6"    > hello world</p>
+          <p class="p3"> UX, UI, Web, Apps, Logos</p>
+          <p class="p4"> Design Tools:</p>
+          <p class="p5"> Affinity Designer</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
         </div>
         <div class="   col-md-4    col-lg-4 ">
           <p class="p1"> icon</p>
           <p> Frontend Developer</p>
-          <p  class="p2"> I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
+          <p class="p2"> I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
           <p> Languages I speak:</p>
-          <p class="p3"  > HTML, Pug, Slim, CSS, Sass, Git</p>
-          <p  class="p4" >Dev Tools:</p>
-          <p  class="p5"     > Atom</p>
-          <p  class="p6"     > hello world</p>
-          <p  class="p6"    > hello world</p>
-          <p  class="p6"     > hello world</p>
-          <p  class="p6"  class="p7"> hello world</p>
+          <p class="p3"> HTML, Pug, Slim, CSS, Sass, Git</p>
+          <p class="p4">Dev Tools:</p>
+          <p class="p5"> Atom</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6" class="p7"> hello world</p>
         </div>
         <div class="   col-md-4    col-lg-4  ">
           <p class="p1"> icon</p>
           <p> Mentor</p>
-          <p  class="p2"> I genuinely care about people, and love helping fellow designers work on their craft.</p>
+          <p class="p2"> I genuinely care about people, and love helping fellow designers work on their craft.</p>
           <p> Experiences I draw from:</p>
-          <p  class="p3" > UX/UI, Product design, Freelancing</p>
-          <p  class="p4"  > Mentor Stats:</p>
-          <p  class="p5"  > 7 years experience</p>
-          <p  class="p6"    > hello world</p>
-          <p  class="p6"      > hello world</p>
-          <p  class="p6"    > hello world</p>
-          <p  class="p6"    > hello world</p>
-          <p  class="p6"  > hello world</p>
-          <p  class="p6"       > hello world</p>
+          <p class="p3"> UX/UI, Product design, Freelancing</p>
+          <p class="p4"> Mentor Stats:</p>
+          <p class="p5"> 7 years experience</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
+          <p class="p6"> hello world</p>
         </div>
       </div>
 
@@ -128,30 +128,87 @@
   </section>
   <!-- my recent work -->
   <!-- section 6 -->
-  <section class="section6h1"  >
-    <div >
+  <section class="section6">
+    <div>
       <h1>My Recent Work </h1>
       <h5> Here are a few past design projects I've worked on. Want to see more? Email me.</h5>
-      <div class="row">
-        <div class=" col-md-4">project image</div>
-        <div class=" col-md-4">project image</div>
-        <div class=" col-md-4">project image</div>
+      <div class="row" class="section6div">
+        <div class=" col-lg-4 col-md-6 "><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU"
+            alt="alt"></div>
+        <div class=" col-lg-4  col-md-6  "><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU"
+            alt="alt"></div>
+        <div class=" col-lg-4   col-md-6   "><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU"
+            alt="alt"></div>
+        <div class=" col-lg-4   col-md-6   "><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU"
+            alt="alt"></div>
+        <div class=" col-lg-4   col-md-6   "><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU"
+            alt="alt"></div>
+        <div class=" col-lg-4   col-md-6   "><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU"
+            alt="alt"></div>
       </div>
-      <div class="row">
-        <div class=" col-md-4">project image</div>
-        <div class=" col-md-4">project image</div>
-        <div class=" col-md-4">project image</div>
+      <!-- <div class="row" class="section6dv ">
+        <div class=" col-lg-4 col-md-4    " ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU" alt="alt"></div>
+        <div class=" col-lg-4 col-md-4     "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU" alt="alt"></div>
+        <div class=" col-lg-4 col-md-4     "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFVVb9D26nLnLNLJZTfqjF8TbyQa_GjdDFw&usqp=CAU" alt="alt"></div>
         
+      </div> -->
+      <div class="section6link">
+        <a href='https://www.freecodecamp.org/'>see more on dribble</a>
       </div>
-
     </div>
   </section>
   <!-- companies i like to work at -->
   <!-- section 7 -->
-  <section></section>
-  <!-- more about me page --> 
+  <section class="section7">
+    <div>
+      <h1 class="section7h1"> I'm proud to have collaborated with some awesome companies:</h1>
+    </div>
+    <div class="row" class="section7dv">
+      <div class=" col-lg-3   col-md-6  col-sm-5 "><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAUv"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6  col-sm-5 "><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6  col-sm-5 "><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6  col-sm-5 "><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6   col-sm-5"><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6   col-sm-5"><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6   col-sm-5"><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+      <div class=" col-lg-3   col-md-6   col-sm-5"><img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDzVzPaCr_DiKSS4SPMWhYWl3gtwCTAWd6Q&usqp=CAU"
+          alt="alt"></div>
+    </div>
+  </section>
+  <!-- my start up projects -->
   <!-- section 8 -->
-  <section></section>
+  <section class="section8">
+    <div>
+      <h1>
+        My Startup Projects
+      </h1>
+      <p> I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps in different
+        industries and verticals. Eventually, I decided that it would be a fun challenge to try designing and building
+        my own. </p>
+
+    </div>
+  </section>
   <!-- links to all my project with images -->
   <!-- section 9 -->
   <section></section>

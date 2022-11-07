@@ -116,9 +116,9 @@
   padding-left: 80px;
   padding-right: 80px; 
 }
-.section7dv{
+/* .section7dv{
   
-}
+} */
 .section7h1{
   padding-left:200px;
   padding-right:200px;
@@ -133,7 +133,20 @@
   padding-right: 210px;
 }
 
+/* section9 */
+.section9{
+  background-color: lightblue;
+  padding-bottom: 80px;
+}
+.carousel{
+  padding-left:250px ;
+  padding-right:250px ;
+  padding-bottom: 100px;
+}
 
+.carousel-indicators{
+  top: 450px;
+}
 
 
 /* ids  */
@@ -141,3 +154,4 @@
   text-align: center;
  }
 
+ 

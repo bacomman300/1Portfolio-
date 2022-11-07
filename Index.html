@@ -209,25 +209,48 @@
 
     </div>
   </section>
-  <!-- links to all my project with images -->
-  <!-- section 9 -->
-  <section></section>
-  <!-- collabe page -->
-  <!-- section 10 -->
-  <section></section>
   <!-- my testimonals -->
-  <!-- section 11 -->
-  <ssection></ssection>
-  <!-- call to action -->
-  <!-- section 12 -->
-  <section></section>
-  <!-- website footer -->
-  <!-- section 13 -->
-  <section></section>
-  <!-- bottom of page -->
-  <!-- section 14 -->
-  <section></section>
+  <!-- section 9 -->
+  <section class="section9">
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="false" >
+      <div              class="carousel-indicators "  >
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <!-- <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button> -->
+      </div  >
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="images/fake person.jfif" class="d-block w-20 mx-auto " alt="image">
+          <p>“Matt was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish.” </p>
+          <h5>Third slide label</h5>
+          <p>Creative Lead, Good Kind </p>
 
+        </div>
+        <div class="carousel-item">
+          <img src="images/fake person.jfif" class="d-block w-20 mx-auto" alt="image"> 
+          <p>“Matt was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish.” </p>
+          <h5>Third slide label</h5>
+          <p>Creative Lead, Good Kind </p>
+        </div>
+        <!-- <div class="carousel-item">
+          <img src="images/fake person.jfif" class="d-block w-100" alt="...">
+        </div> -->
+      </div>
+      <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button> -->
+      <!-- <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button> -->
+    </div>
+  </section>
+  <!-- bottom of page -->
+  <!-- section 10 -->
+  <section>
+    <div></div>
+  </section>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
     crossorigin="anonymous"></script>

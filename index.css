@@ -138,6 +138,11 @@
   background-color: lightblue;
   padding-bottom: 80px;
 }
+
+.section9div{
+  padding-top:70px ;
+  padding-bottom:70px ;
+}
 .carousel{
   padding-left:250px ;
   padding-right:250px ;
@@ -147,7 +152,20 @@
 .carousel-indicators{
   top: 450px;
 }
+/* section10 */
 
+.section10p2{
+  padding-top:20px ;
+  padding-bottom:20px ;
+}
+.section10p3{
+padding-bottom:40px;
+}
+.section10{
+  padding-top:50px ;
+  padding-bottom:50px ;
+  background-color: lightblue;
+}
 
 /* ids  */
  section{

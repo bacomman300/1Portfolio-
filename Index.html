@@ -245,11 +245,29 @@
         <span class="visually-hidden">Next</span>
       </button> -->
     </div>
+    <div class="row"  >
+      <div class="col-lg-4 col-md-4 ">
+        <p> Start a project</p>
+      </div>
+      <div class="col-lg-4 col-md-4 ">
+        <p>Interested in working together? We should queue up a time to chat. I will  buy the coffee. </p>
+      </div>
+      <div class="col-lg-4 col-md-4 ">
+        <p> lets do this  </p>
+      </div>
+
+    </div>
   </section>
   <!-- bottom of page -->
   <!-- section 10 -->
-  <section>
-    <div></div>
+  <section class="section10">
+    <div>
+      <p>📱</p>
+      <p class="section10p2">Living, learning, & leveling up one day at a time. </p>
+      <p class="section10p3"> 📱📱📱📱📱 </p>
+      <p> Handcrafted by metwentytwentytwo</p>
+      <p> made with bulma</p>
+    </div>
   </section>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
